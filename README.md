@@ -1,16 +1,43 @@
-# to_do_app
+# 📝 Flutter To-Do App
 
-A new Flutter project.
+A simple and elegant to-do list application built with **Flutter**. Users can add, mark as completed, and delete tasks. The app also features **light/dark theme switching** and **persistent data storage** using Shared Preferences.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add new tasks
+- ✏️ Mark tasks as completed
+- 🗑️ Delete tasks
+- 🌗 Toggle between light and dark themes
+- 💾 Persistent storage with Shared Preferences
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## Project Structure
+lib/
+ └─ main.dart     // All core logic and UI code
+ 
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Built With
+
+- Flutter
+- Dart
+- Shared Preferences (for local data storage)
+
+---
+
+## 🛠️ Getting Started
+
+
+-To run this project on your local machine:
+-git clone [https://github.com/adnnztrk/flutter_todo_app.git]
+-cd flutter_todo_app
+-flutter pub get
+-flutter run
+---
+---
+## Developer
+-Adnan Öztürk
+-📧 Email: adnanztrkl@gmail.com
+---
